@@ -1,0 +1,468 @@
+1585195508489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6KR6KQ"
+
+(firefox:14838): Gtk-WARNING **: 11:05:08.562: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585195509206	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585195509901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585195509901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585195509901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585195509901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14899): Gtk-WARNING **: 11:05:10.702: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:15002): Gtk-WARNING **: 11:05:11.000: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:15068): Gtk-WARNING **: 11:05:12.556: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585195513016	Marionette	INFO	Listening on port 41965
+1585195513104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585195524232	Marionette	INFO	Stopped listening on port 41965
+1585196450701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePsD9BS"
+1585196450711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAg3Gme"
+1585196450715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQTmQu"
+1585196450717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelAfrZo"
+1585196450725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenfg4CN"
+1585196450761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWz1ru"
+1585196450771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA5HgXW"
+1585196450819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ptkB8"
+
+(firefox:23561): Gtk-WARNING **: 11:20:50.955: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23563): Gtk-WARNING **: 11:20:50.965: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23565): Gtk-WARNING **: 11:20:50.978: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23595): Gtk-WARNING **: 11:20:51.125: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23564): Gtk-WARNING **: 11:20:51.147: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23581): Gtk-WARNING **: 11:20:51.177: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23583): Gtk-WARNING **: 11:20:51.182: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23560): Gtk-WARNING **: 11:20:51.190: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196451773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelqrpeY"
+1585196451782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilede8Uej"
+
+(firefox:23845): Gtk-WARNING **: 11:20:52.148: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:23844): Gtk-WARNING **: 11:20:52.167: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196452676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196452765	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196452766	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196452916	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196452959	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196453194	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196453297	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196453352	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196454760	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196454859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196454859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196454859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196454860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455176	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196455244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196455792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196455792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196455796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196455796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196456178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196456178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196456178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196456179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196456777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196456777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196456777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196456777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196457015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196457026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196457026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196457026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:24161): Gtk-WARNING **: 11:20:59.084: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24164): Gtk-WARNING **: 11:20:59.205: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24179): Gtk-WARNING **: 11:20:59.444: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24211): Gtk-WARNING **: 11:20:59.871: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24206): Gtk-WARNING **: 11:20:59.919: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24246): Gtk-WARNING **: 11:21:00.169: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24288): Gtk-WARNING **: 11:21:00.303: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24289): Gtk-WARNING **: 11:21:00.326: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24624): Gtk-WARNING **: 11:21:01.275: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24640): Gtk-WARNING **: 11:21:01.338: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24609): Gtk-WARNING **: 11:21:01.427: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24819): Gtk-WARNING **: 11:21:01.828: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24888): Gtk-WARNING **: 11:21:02.317: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24973): Gtk-WARNING **: 11:21:02.543: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:24994): Gtk-WARNING **: 11:21:02.655: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25118): Gtk-WARNING **: 11:21:03.149: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25228): Gtk-WARNING **: 11:21:04.157: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25234): Gtk-WARNING **: 11:21:04.255: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25246): Gtk-WARNING **: 11:21:04.523: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25276): Gtk-WARNING **: 11:21:04.830: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25757): Gtk-WARNING **: 11:21:15.879: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25765): Gtk-WARNING **: 11:21:16.168: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25768): Gtk-WARNING **: 11:21:16.188: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25816): Gtk-WARNING **: 11:21:17.386: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196477970	Marionette	INFO	Listening on port 39563
+1585196478131	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25837): Gtk-WARNING **: 11:21:18.173: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25840): Gtk-WARNING **: 11:21:18.224: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196478303	Marionette	INFO	Listening on port 33313
+1585196478347	Marionette	INFO	Listening on port 33309
+1585196478675	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25856): Gtk-WARNING **: 11:21:18.707: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196478710	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25868): Gtk-WARNING **: 11:21:19.329: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25920): Gtk-WARNING **: 11:21:19.557: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:25958): Gtk-WARNING **: 11:21:20.221: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196480310	Marionette	INFO	Listening on port 33929
+1585196480563	Marionette	INFO	Listening on port 45741
+1585196480724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196481396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196481841	Marionette	INFO	Listening on port 37489
+1585196482030	Marionette	INFO	Listening on port 39175
+1585196482054	Marionette	INFO	Listening on port 44955
+1585196482184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196482263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196482641	Marionette	INFO	Listening on port 38873
+1585196482810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196482826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196483033	Marionette	INFO	Listening on port 44105
+1585196483300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196522281	Marionette	INFO	Stopped listening on port 33309
+1585196522295	Marionette	INFO	Stopped listening on port 45741
+1585196528728	Marionette	INFO	Stopped listening on port 38873
+1585196529932	Marionette	INFO	Stopped listening on port 44105
+1585196532089	Marionette	INFO	Stopped listening on port 33313
+1585196532723	Marionette	INFO	Stopped listening on port 37489
+1585196533400	Marionette	INFO	Stopped listening on port 33929
+1585196534903	Marionette	INFO	Stopped listening on port 44955
+1585196535243	Marionette	INFO	Stopped listening on port 39563
+1585196535916	Marionette	INFO	Stopped listening on port 39175
+1585196975286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYwjEj"
+1585196975298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejti0Qq"
+1585196975301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUsclPP"
+1585196975346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerWRmNd"
+1585196975362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenDQyKa"
+1585196975369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegwueQI"
+1585196975438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHRDbny"
+
+(firefox:27684): Gtk-WARNING **: 11:29:35.555: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27689): Gtk-WARNING **: 11:29:35.565: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27687): Gtk-WARNING **: 11:29:35.570: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27701): Gtk-WARNING **: 11:29:35.592: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27704): Gtk-WARNING **: 11:29:35.723: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27733): Gtk-WARNING **: 11:29:35.723: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27705): Gtk-WARNING **: 11:29:35.724: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196976358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4d0aCu"
+1585196976394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec4FMkg"
+1585196976469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7hhFE9"
+
+(firefox:27963): Gtk-WARNING **: 11:29:36.668: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27959): Gtk-WARNING **: 11:29:36.722: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:27976): Gtk-WARNING **: 11:29:36.882: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196976998	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977088	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977140	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977143	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977158	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977230	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196977364	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196978967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196978967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196978968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196978968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196979254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979271	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196979368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196979368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196979369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196979369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196979377	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585196980790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196980793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196980793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196980793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196980918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196980919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196980920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196980920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585196981043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585196981044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585196981045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585196981045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28248): Gtk-WARNING **: 11:29:42.358: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28276): Gtk-WARNING **: 11:29:42.524: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28277): Gtk-WARNING **: 11:29:42.571: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28296): Gtk-WARNING **: 11:29:42.813: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28301): Gtk-WARNING **: 11:29:42.841: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28332): Gtk-WARNING **: 11:29:43.144: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28356): Gtk-WARNING **: 11:29:43.288: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28423): Gtk-WARNING **: 11:29:43.519: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28561): Gtk-WARNING **: 11:29:44.029: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28704): Gtk-WARNING **: 11:29:44.522: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28923): Gtk-WARNING **: 11:29:45.450: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28924): Gtk-WARNING **: 11:29:45.475: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28956): Gtk-WARNING **: 11:29:45.541: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28985): Gtk-WARNING **: 11:29:45.974: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:28988): Gtk-WARNING **: 11:29:46.023: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29016): Gtk-WARNING **: 11:29:46.353: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29015): Gtk-WARNING **: 11:29:46.474: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29230): Gtk-WARNING **: 11:29:47.919: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29415): Gtk-WARNING **: 11:29:49.263: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29427): Gtk-WARNING **: 11:29:49.567: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29722): Gtk-WARNING **: 11:29:55.238: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29736): Gtk-WARNING **: 11:29:55.566: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29764): Gtk-WARNING **: 11:29:56.341: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29770): Gtk-WARNING **: 11:29:56.692: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29774): Gtk-WARNING **: 11:29:56.949: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:29792): Gtk-WARNING **: 11:29:57.176: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196997334	Marionette	INFO	Listening on port 42091
+1585196997374	Marionette	INFO	Listening on port 38493
+
+(/usr/lib/firefox/firefox:29799): Gtk-WARNING **: 11:29:57.422: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196997438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196997590	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29870): Gtk-WARNING **: 11:29:58.284: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196998363	Marionette	INFO	Listening on port 44793
+1585196998449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196998466	Marionette	INFO	Listening on port 44199
+1585196998737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196998846	Marionette	INFO	Listening on port 43791
+
+(/usr/lib/firefox/firefox:29908): Gtk-WARNING **: 11:29:58.856: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196998983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196999243	Marionette	INFO	Listening on port 46209
+
+(/usr/lib/firefox/firefox:29941): Gtk-WARNING **: 11:29:59.274: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585196999331	Marionette	INFO	Listening on port 43385
+1585196999365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196999498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585196999798	Marionette	INFO	Listening on port 34819
+1585196999933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197000067	Marionette	INFO	Listening on port 42613
+1585197000128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197000266	Marionette	INFO	Listening on port 36725
+1585197000347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1585197061210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileALsx8z"
+1585197061211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRZ8iG2"
+
+(firefox:30470): Gtk-WARNING **: 11:31:01.303: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:30471): Gtk-WARNING **: 11:31:01.308: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197061772	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585197061774	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585197062238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewdQY3p"
+1585197062253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDXmNZ"
+1585197062261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMRzEs5"
+
+(firefox:30576): Gtk-WARNING **: 11:31:02.421: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(firefox:30578): Gtk-WARNING **: 11:31:02.472: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197062493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585197062493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585197062493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585197062494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:30581): Gtk-WARNING **: 11:31:02.512: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197062607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585197062607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585197062607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585197062608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585197063329	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585197063343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585197063407	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585197064215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585197064216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585197064216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585197064216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585197064319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585197064319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585197064319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585197064320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:30734): Gtk-WARNING **: 11:31:04.326: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197064370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585197064371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585197064371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585197064371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:30752): Gtk-WARNING **: 11:31:04.618: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31030): Gtk-WARNING **: 11:31:05.516: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31031): Gtk-WARNING **: 11:31:05.702: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31079): Gtk-WARNING **: 11:31:06.313: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31107): Gtk-WARNING **: 11:31:06.464: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31125): Gtk-WARNING **: 11:31:06.692: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31169): Gtk-WARNING **: 11:31:07.134: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31248): Gtk-WARNING **: 11:31:07.912: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31358): Gtk-WARNING **: 11:31:08.902: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31490): Gtk-WARNING **: 11:31:12.093: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31495): Gtk-WARNING **: 11:31:12.276: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197073154	Marionette	INFO	Listening on port 34289
+1585197073245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197073498	Marionette	INFO	Listening on port 45063
+1585197073577	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31550): Gtk-WARNING **: 11:31:13.724: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31557): Gtk-WARNING **: 11:31:13.950: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+
+(/usr/lib/firefox/firefox:31586): Gtk-WARNING **: 11:31:14.431: Theme parsing error: gtk.css:3611:22: 'none' is not a valid color name
+1585197074580	Marionette	INFO	Listening on port 37685
+1585197074901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197075062	Marionette	INFO	Listening on port 33893
+1585197075143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197075208	Marionette	INFO	Listening on port 34313
+1585197075246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585197114871	Marionette	INFO	Stopped listening on port 45063
+1585197119011	Marionette	INFO	Stopped listening on port 34313
+1585197119881	Marionette	INFO	Stopped listening on port 37685
+1585197123407	Marionette	INFO	Stopped listening on port 34289
+1585197123707	Marionette	INFO	Stopped listening on port 33893
