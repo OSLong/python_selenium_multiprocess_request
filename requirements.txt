@@ -1,3 +1,3 @@
 certifi==2019.11.28
 selenium==3.141.0
-urllib3==1.25.8
+urllib3==1.26.5
